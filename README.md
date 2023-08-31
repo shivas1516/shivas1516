@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiva
 - 👀 I’m interested in Machine and Deep Learning
-- 🌱 I’m currently learning java for get into the networking
+- 🌱 I’m currently learning java for get into the networking and API development
 - 📫 Reach me in Linkedin -> SIVASUBRAMANIAM
 - GDSC Lead of DCE '24
 
