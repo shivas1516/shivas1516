@@ -9,3 +9,5 @@
 ## **Google Developer Student Clubs Lead '24** | **Passionate AI Enthusiast** | **Open Source Contributor** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasubramaniam-l-8aa165229)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasubramaniam1516@gmail.com)
+
