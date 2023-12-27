@@ -3,13 +3,14 @@
 
 <!-- Typing Animation -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+SIVASUBRAMANIAM;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+SIVASUBRAMANIAM;" style="color: #48D1CC" />
 </h1>
 
 ## **Google Developer Student Clubs Lead '24** | **Passionate AI Enthusiast** | **Open Source Contributor** 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasubramaniam-l-8aa165229)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasubramaniam1516@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shivas1415)
 [![Discord](https://img.shields.io/badge/Discord-shiva_48220-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shiva_48220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasubramaniam-l-8aa165229)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-%2320B2AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasubramaniam1516@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%2387CEEB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shivas1415)
+
 
