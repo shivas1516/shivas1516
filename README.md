@@ -13,12 +13,7 @@ I am an undergraduate Pre-Final year student specializing in Artificial Intellig
 ## Dev Toolkit🛠️
 
 
-
 ## Slithering Through Contributions 🎮🐍
-
-## GitHub Stats 📈
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shivas1516&show_icons=true)
 
 
 ## Connect Across the Web 🌐↓
