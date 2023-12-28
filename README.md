@@ -16,6 +16,11 @@ I am an undergraduate Pre-Final year student specializing in Artificial Intellig
 
 ## Slithering Through Contributions 🎮🐍
 
+## GitHub Stats 📈
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shivas1516&show_icons=true)
+
+
 ## Connect Across the Web 🌐↓
 
 [![Discord](https://img.shields.io/badge/Discord-shiva_48220-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shiva_48220)
