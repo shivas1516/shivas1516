@@ -16,7 +16,7 @@ I am an undergraduate Pre-Final year student specializing in Artificial Intellig
     <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Tensorflow.png" alt="tensorflow-logo" width="100" height="auto">
     <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Kubeflow.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
     <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Django.png" alt="django" width="100" height="auto">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/docker.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/docker.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="150" height="auto">
     <img src="https://github.com/shivas1516/shivas1516/blob/main/img/kubernetes.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
 </p>
 
