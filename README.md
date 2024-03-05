@@ -12,15 +12,13 @@ I am an undergraduate Pre-Final year student specializing in Artificial Intellig
 
 ## Dev Toolkit🛠️
 <p align="center">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/cf6e2220-0f29-43fe-99ae-93793fd4ffbc" alt="python" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/2e69f371-edce-4447-a7eb-cae9598768af" alt="tensorflow-logo" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Pytorch_Fundamentals/assets/141582345/c11e022c-7de5-49ee-915d-28d3f75c059a" alt="pytorch" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/669546ed-9381-46e8-8059-109e96514cd5" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/d5043f94-6e48-4423-85aa-2d77ad6fc006" alt="Pandas" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/71be67d8-c163-4290-800b-9fa1841ca496" alt="numpy" width="100" height="auto">
-    <img src="https://github.com/shivas1516/Naan_Mudhalvan/assets/141582345/c8242ad2-bd9f-48c2-99de-e817ae2a4331" alt="django" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Python.png" alt="python" width="80" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Tensorflow.png" alt="tensorflow-logo" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Kubeflow.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Django.png" alt="django" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/docker.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/kubernetes.png" alt="st_small_845x845-pad_1000x1000_f8f8f8" width="100" height="auto">
 </p>
-
 
 
 ## Connect Across the Web 🌐↓
