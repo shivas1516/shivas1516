@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+SIVASUBRAMANIAM;" style="color: #48D1CC" />
 </h1>
 
-# **Google Developer Student Clubs Lead '24** | **Passionate AI Enthusiast** | **Open Source Contributor** 🚀
+# **Google Developer Student Clubs Lead '24** | Google Summer of Code '24 | **Passionate AI Enthusiast** | **Open Source Contributor** 🚀
 
 I am an undergraduate Pre-Final year student specializing in Artificial Intelligence, deeply immersed in the dynamic field of Natural Language Processing. Fueled by a keen interest in contributing to open-source projects, I am on an unceasing journey to broaden and refine my toolkit knowledge, staying at the forefront of cutting-edge developments in AI. Beyond the technical aspects, my passion extends to serving the world through active community engagement, utilizing technology as a catalyst for positive impact.
 
