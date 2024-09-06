@@ -8,7 +8,7 @@
 
 # **Google Developer Student Clubs Lead '24** | Google Summer of Code '24 | **Passionate AI Enthusiast** | **Open Source Contributor** 🚀
 
-I am an undergraduate Pre-Final year student specializing in Artificial Intelligence, deeply immersed in the dynamic field of Natural Language Processing. Fueled by a keen interest in contributing to open-source projects, I am on an unceasing journey to broaden and refine my toolkit knowledge, staying at the forefront of cutting-edge developments in AI. Beyond the technical aspects, my passion extends to serving the world through active community engagement, utilizing technology as a catalyst for positive impact.
+I am an undergraduate Final year student specializing in Artificial Intelligence, deeply immersed in the dynamic field of Natural Language Processing. Fueled by a keen interest in contributing to open-source projects, I am on an unceasing journey to broaden and refine my toolkit knowledge, staying at the forefront of cutting-edge developments in AI. Beyond the technical aspects, my passion extends to serving the world through active community engagement, utilizing technology as a catalyst for positive impact.
 
 ## Dev Toolkit🛠️
 <p align="center">
